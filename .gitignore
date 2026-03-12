@@ -1,0 +1,30 @@
+.vs/
+*.user
+
+# Build directories
+[Bb]uild/
+[Oo]bj/
+[Bb]in/
+x64/
+x86/
+Debug/
+Release/
+
+# Compiled object files and artifacts
+*.obj
+*.iobj
+*.ilk
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+
+# Debugging databases
+*.pdb
+*.ipdb
+*.idb
